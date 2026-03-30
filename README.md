@@ -1,5 +1,9 @@
 # Hi, I'm xyjk
 
+![Focus](https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-blue)
+![Secondary](https://img.shields.io/badge/Also%20Interested-Applied%20AI%20%26%20Software-purple)
+![Domains](https://img.shields.io/badge/Domains-Healthcare%20%7C%20Neuroscience%20%7C%20OCR-success)
+
 I'm a student builder focused on **data science, machine learning, and applied AI systems**.
 
 我是 xyjk，一名主要关注 **数据科学、机器学习与应用型 AI 系统** 的学生开发者。
@@ -21,6 +25,14 @@ I work on clinical prediction, EEG modeling, OCR automation, and research-to-eng
 - 应用型 AI / 软件工程实习
 - 医疗、神经科学与行为数据建模
 - 围绕 ML 实验与开发工作流构建实用系统
+
+---
+
+## Currently looking for / 当前目标
+
+I'm especially interested in **Data/ML internships** and **Applied AI / software internships**.
+
+我目前最关注的是 **数据/ML 实习** 和 **应用型 AI / 软件方向实习**。
 
 ---
 

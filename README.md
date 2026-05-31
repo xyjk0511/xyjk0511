@@ -4,6 +4,13 @@
 ![Secondary](https://img.shields.io/badge/Also%20Interested-Applied%20AI%20%26%20Software-purple)
 ![Domains](https://img.shields.io/badge/Domains-Healthcare%20%7C%20Neuroscience%20%7C%20OCR-success)
 
+**Fixed-scope Codex automation services:** repo cleanup, tests/CI repair,
+PR review, data workflow automation, and small AI app rescue.
+
+[Portfolio](https://xyjk0511.github.io/codex-services-portfolio/) ·
+[Sample reports](https://xyjk0511.github.io/codex-services-portfolio/cases/ai-app-rescue-sample-report.html) ·
+[Request a quote](https://github.com/xyjk0511/codex-services-portfolio/issues/new?template=service-request.yml)
+
 I'm a student builder focused on **data science, machine learning, and applied AI systems**.
 
 我是 xyjk，一名主要关注 **数据科学、机器学习与应用型 AI 系统** 的学生开发者。

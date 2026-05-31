@@ -10,6 +10,9 @@ PR review, data workflow automation, and small AI app rescue.
 [CSV kit and fixed-scope services](https://xyjk0511.github.io/codex-services-portfolio/#csv-offers):
 $9-$19 starter kit, $79 express CSV audit, and $199 reconciliation cleanup sprint.
 
+[Start a CSV kit or cleanup request](https://github.com/xyjk0511/codex-services-portfolio/issues/new?template=csv-kit-request.yml)
+with a sanitized sample or write `N/A` if you only want the starter kit.
+
 [Portfolio](https://xyjk0511.github.io/codex-services-portfolio/) ·
 [Sample reports](https://xyjk0511.github.io/codex-services-portfolio/cases/ai-app-rescue-sample-report.html) ·
 [Request a quote](https://github.com/xyjk0511/codex-services-portfolio/issues/new?template=service-request.yml)

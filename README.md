@@ -5,17 +5,21 @@
 ![Domains](https://img.shields.io/badge/Domains-Healthcare%20%7C%20Neuroscience%20%7C%20OCR-success)
 
 **Fixed-scope Codex automation services:** repo cleanup, tests/CI repair,
-PR review, data workflow automation, and small AI app rescue.
+PR review, CSV / Excel workflow automation, and small AI app rescue.
 
-[CSV kit and fixed-scope services](https://xyjk0511.github.io/codex-services-portfolio/#csv-offers):
-$9-$19 starter kit, $79 express CSV audit, and $199 reconciliation cleanup sprint.
+Fast paid options:
+- **CSV starter kit:** $9 launch / $19 list, for local reconciliation checks.
+- **Bug / CI triage:** $79 fixed diagnostic from a failing command or public repo.
+- **One-flow rescue:** $199+ for a narrow script, test, or workflow cleanup.
 
 [Start a CSV kit or cleanup request](https://github.com/xyjk0511/codex-services-portfolio/issues/new?template=csv-kit-request.yml)
-with a sanitized sample or write `N/A` if you only want the starter kit.
+or
+[request a fixed-price service quote](https://github.com/xyjk0511/codex-services-portfolio/issues/new?template=service-request.yml)
+with a sanitized sample, public repo link, failing command, or expected output.
 
 [Portfolio](https://xyjk0511.github.io/codex-services-portfolio/) ·
-[Sample reports](https://xyjk0511.github.io/codex-services-portfolio/cases/ai-app-rescue-sample-report.html) ·
-[Request a quote](https://github.com/xyjk0511/codex-services-portfolio/issues/new?template=service-request.yml)
+[CSV offers](https://xyjk0511.github.io/codex-services-portfolio/#csv-offers) ·
+[Sample reports](https://xyjk0511.github.io/codex-services-portfolio/cases/ai-app-rescue-sample-report.html)
 
 I'm a student builder focused on **data science, machine learning, and applied AI systems**.
 

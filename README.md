@@ -34,6 +34,18 @@ I'm especially interested in **Data/ML internships** and **Applied AI / software
 
 我目前最关注的是 **数据/ML 实习** 和 **应用型 AI / 软件方向实习**。
 
+I'm also available for small fixed-scope automation and code repair work:
+
+- CSV / Excel cleanup and reconciliation scripts
+- focused bug fixes, test repair, and CI diagnostics
+- narrow AI workflow prototypes from provided content
+
+Portfolio and quote request:
+**https://xyjk0511.github.io/codex-services-portfolio/**
+
+小型接单范围：CSV/Excel 自动化、代码修复、测试/CI 诊断、基于已提供材料的小型 AI 工作流原型。公开询价入口：
+**https://xyjk0511.github.io/codex-services-portfolio/**
+
 ---
 
 ## Featured Projects / 代表项目
